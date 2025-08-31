@@ -8,7 +8,7 @@ const Project = () => {
         <div className="links">
 
           <div className="custom-card">
-            <img data-aos="fade-down" src="./src/assets/card1.jpg" alt="Expense Tracker" />
+            <img data-aos="fade-down" src="/card1.jpg" alt="Expense Tracker" />
             <div className="card-body">
               <h3 data-aos="fade-down">Expense Tracker</h3>
               <p data-aos="fade-down">
@@ -23,7 +23,7 @@ const Project = () => {
           </div>
 
           <div className="custom-card">
-            <img src="./src/assets/card2.jpg" alt="Hijab Studio" />
+            <img src="/card2.jpg" alt="Hijab Studio" />
             <div className="card-body">
               <h3>Hijab Studio</h3>
               <p>
@@ -38,7 +38,7 @@ const Project = () => {
           </div>
 
           <div className="custom-card">
-            <img data-aos="fade-down" src="./src/assets/card3.jpg" alt="Web Dev Club" />
+            <img data-aos="fade-down" src="/card3.jpg" alt="Web Dev Club" />
             <div className="card-body">
               <h3 data-aos="fade-down">Web Dev Club</h3>
               <p data-aos="fade-down">
@@ -53,7 +53,7 @@ const Project = () => {
           </div>
 
           <div className="custom-card">
-            <img data-aos="fade-down" src="./src/assets/card4.png" alt="News Wire" />
+            <img data-aos="fade-down" src="/card4.png" alt="News Wire" />
             <div className="card-body">
               <h3 data-aos="fade-down">News Wire</h3>
               <p data-aos="fade-down">
@@ -68,7 +68,7 @@ const Project = () => {
           </div>
 
           <div className="custom-card">
-            <img data-aos="fade-down" src="./src/assets/card5.jpg" alt="Flags Spotlight" />
+            <img data-aos="fade-down" src="/card5.jpg" alt="Flags Spotlight" />
             <div className="card-body">
               <h3 data-aos="fade-down">Flags Spotlight</h3>
               <p data-aos="fade-down">

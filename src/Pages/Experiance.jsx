@@ -16,7 +16,7 @@ const Experiance = () => {
             </div>
             <div className="overlay">
               <a
-                href="./src/assets/Completion Certificate (19)-93 (2).pdf"
+                href="/Completion Certificate (19)-93 (2).pdf"
                 target="_blank"
                 rel="noreferrer"
               >
@@ -34,7 +34,7 @@ const Experiance = () => {
             </div>
             <div className="overlay">
               <a
-                href="./src/assets/Nooruleman .pdf"
+                href="/Nooruleman .pdf"
                 target="_blank"
                 rel="noreferrer"
               >
@@ -52,7 +52,7 @@ const Experiance = () => {
             </div>
             <div className="overlay">
               <a
-                href="./src/assets/Copy of Nooruleman Femhack Certificate .pdf"
+                href="/Copy of Nooruleman Femhack Certificate .pdf"
                 target="_blank"
                 rel="noreferrer"
               >

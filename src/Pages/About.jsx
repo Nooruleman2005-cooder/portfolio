@@ -22,35 +22,35 @@ const About = () => {
         <div className='skills'>
           <div className='skill'>
             <h2>Html</h2>
-            <img data-aos="fade-up" src="./src/assets/html-removebg-preview.png" alt="" />
+            <img data-aos="fade-up" src="/html-removebg-preview.png" alt="" />
           </div>
           <div className='skill'>
             <h2>Css</h2>
-            <img data-aos="fade-up" src="./src/assets/css-removebg-preview.png" alt="" />
+            <img data-aos="fade-up" src="/css-removebg-preview.png" alt="" />
           </div>
           <div className='skill'>
             <h2>JavaScript</h2>
-            <img  data-aos="fade-up" src="./src/assets/js-removebg-preview.png" alt="" />
+            <img  data-aos="fade-up" src="/js-removebg-preview.png" alt="" />
           </div>
           <div className='skill'>
             <h2>React</h2>
-            <img data-aos="fade-up" src="./src/assets/react-removebg-preview.png" alt="" />
+            <img data-aos="fade-up" src="./react-removebg-preview.png" alt="" />
           </div>
           <div className='skill'>
             <h2>NodeJs</h2>
-            <img data-aos="fade-up" src="./src/assets/nodejs-removebg-preview.png" alt="" />
+            <img data-aos="fade-up" src="/nodejs-removebg-preview.png" alt="" />
           </div>
           <div className='skill'>
             <h2>Mongodb</h2>
-            <img data-aos="fade-up" src="./src/assets/mongodb-removebg-preview.png" alt="" />
+            <img data-aos="fade-up" src="/mongodb-removebg-preview.png" alt="" />
           </div>
           <div className='skill'>
             <h2>Bootstrap</h2>
-            <img data-aos="fade-up" src="./src/assets/bootstrap-removebg-preview.png" alt="" />
+            <img data-aos="fade-up" src="/bootstrap-removebg-preview.png" alt="" />
           </div>
           <div className='skill'>
             <h2>TaiwindCss</h2>
-            <img data-aos="fade-up" src="./src/assets/tailwind-removebg-preview.png" alt="" />
+            <img data-aos="fade-up" src="/tailwind-removebg-preview.png" alt="" />
           </div>
 
         </div>
