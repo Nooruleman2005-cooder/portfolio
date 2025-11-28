@@ -22,6 +22,21 @@ const Project = () => {
             </div>
           </div>
 
+              <div className="custom-card">
+            <img data-aos="fade-down" src="/Capture.PNG" alt="News Wire" />
+            <div className="card-body">
+              <h3 data-aos="fade-down">Post Nest </h3>
+              <p data-aos="fade-down">
+                 A blog website where users can read, create, and manage posts.
+              </p>
+            </div>
+            <div className="overlay">
+              <a href="https://authentication-b6262.web.app/" target="_blank" rel="noreferrer">
+                View Project
+              </a>
+            </div>
+          </div>
+
           <div className="custom-card">
             <img src="/card2.jpg" alt="Hijab Studio" />
             <div className="card-body">
@@ -77,6 +92,22 @@ const Project = () => {
             </div>
             <div className="overlay">
               <a href="https://flags-spotlight.vercel.app/?authuser=0" target="_blank" rel="noreferrer">
+                View Project
+              </a>
+            </div>
+          </div>
+
+          
+          <div className="custom-card">
+            <img data-aos="fade-down" src="/images (1).png" alt="Flags Spotlight" />
+            <div className="card-body">
+              <h3 data-aos="fade-down">Todo App</h3>
+              <p data-aos="fade-down">
+               A simple Todo App to manage daily tasks with add, edit, and delete functionality.
+              </p>
+            </div>
+            <div className="overlay">
+              <a href="https://nooruleman2005-cooder.github.io/Mini-Hakhton/" target="_blank" rel="noreferrer">
                 View Project
               </a>
             </div>
